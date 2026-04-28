@@ -1,0 +1,167 @@
+<mxfile host="65bd71144e">
+    <diagram id="pZdqKb3aC7hSq-K0vEqM" name="Page-1">
+        <mxGraphModel dx="1658" dy="3902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="439" y="-3011" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="Enter website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="379" y="-3151" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Search" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="Explore" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="58">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Search for product OR explore homepage&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="399" y="-3001" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Search input is provided" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="219" y="-2991" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;exitX=0.507;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="58" target="13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="599" y="-2931" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Browse search results" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="219" y="-2851" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="13" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Browse home page products" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="539" y="-2851" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+                    <mxGeometry x="269" y="-2691" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="17" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Looking over products&amp;nbsp;" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="379" y="-2711" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="19" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+                    <mxGeometry x="589" y="-2691" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Yes" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="No" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="View a specific product?" style="rhombus;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="399" y="-2581" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="26" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Product page opens" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="219" y="-2571" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Yes" style="edgeStyle=none;html=1;" edge="1" parent="1" source="30" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="No" style="edgeStyle=none;html=1;" edge="1" parent="1" source="30" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Add to cart?" style="rhombus;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="239" y="-2441" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Added to cart confirmation" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="59" y="-2431" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Yes" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="34" target="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="709" y="-2751" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="No" style="edgeStyle=none;html=1;" edge="1" parent="1" source="34" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Continue shopping?" style="rhombus;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="559" y="-2581" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="36" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+                    <mxGeometry x="499" y="-2411" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="41">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="699" y="-2261" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="44">
+                    <mxGeometry x="-0.0199" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="Yes" style="edgeStyle=none;html=1;" edge="1" parent="1" source="41" target="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Proceed to checkout?" style="rhombus;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="559" y="-2421" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Leave website (END)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="649" y="-2261" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="46" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="View Cart Screen" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="429" y="-2261" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="48" target="50">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="View Payment Screen" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="429" y="-2121" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="50" target="52">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Enter payment information" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="429" y="-1981" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="52" target="54">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Order confirmation screen" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="429" y="-1841" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="54" target="56">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Email sent" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="429" y="-1701" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="END" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;" vertex="1" parent="1">
+                    <mxGeometry x="429" y="-1561" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+                    <mxGeometry x="589" y="-2971" width="20" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
